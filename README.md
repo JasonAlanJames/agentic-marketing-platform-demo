@@ -1,4 +1,4 @@
-# Capital Group Agentic Marketing Demo
+# Capital Group Agentic AI Marketing Workflow Demo
 
 A portfolio project demonstrating a production-style agentic AI workflow for financial marketing content generation.
 
