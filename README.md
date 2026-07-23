@@ -1,4 +1,4 @@
-# Capital Group Agentic AI Marketing Workflow Demo
+# Agentic AI Marketing Platform Workflow Demo
 
 Production-style AI workflow demonstrating multi-agent orchestration using LangGraph, Amazon Bedrock, LangFuse, and structured outputs.
 
